@@ -12,7 +12,6 @@ A web-based customer management system built with PHP and MySQL for efficiently 
 - [Database Setup](#database-setup)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Author](#author)
@@ -151,10 +150,6 @@ customer-management-system-2024/
 ├── styles.css                # Custom CSS styles
 └── README.md                 # Project documentation
 ```
-
-## 🖼 Screenshots
-
-_Add screenshots of your application here to showcase the interface_
 
 ## 🤝 Contributing
 
